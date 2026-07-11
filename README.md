@@ -4,6 +4,9 @@
 
 ### Threat Map Demo:
 <img width="800" height="496" alt="threatmap-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2fede29f-6e06-4e45-a206-ba2869ab1d0d" />
+
+---
+
 #### Globe:
 - Auto-rotating heatmap globe, drag to spin
 - Realistic 3D terrain globe mode
@@ -13,6 +16,8 @@
 - Hover any dot: malware family, status, threat actor
 - Click a ping: detail card with copyable IPs, source, first seen
 
+---
+
 #### Data:
 - Live feeds, refreshed every 15 minutes
 - Stats strip: tracked IPs, countries, top source, data age
@@ -20,6 +25,8 @@
 - Live incident news feed: ransomware claims, exploited CVEs, headlines
 - Scroll shrinks the globe to reveal the feed
 - "?" methodology notes on every legend item
+
+---
 
 ### Full Web Demo:
 #### Terminal:
@@ -30,6 +37,8 @@
 - Tab completion, ↑/↓ history, "?" command reference
 - asciiquarium, cmatrix, neofetch, cowsay
 
+---
+
 #### ASCII Toys:
 - Spinning cube / triangle / donut: speed, direction, size, ANSI colors
 - Flag capture: rainbow confetti, shape turns rainbow and becomes a draggable bouncy toy
@@ -37,6 +46,8 @@
 - X-ray hover: inverts glyphs under the cursor
 - Cursor spotlight reveal with size slider (hidden smiley somewhere)
 - Scroll-shifting background gradient
+
+---
 
 #### Pages:
 - Hash-routed: home, posts, map, terminal-styled 404
