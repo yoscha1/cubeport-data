@@ -1,8 +1,9 @@
 # cubeport-data
 ## URL: https://cubeport.vercel.app
-<img width="1539" height="946" alt="image" src="https://github.com/user-attachments/assets/a75fc43c-ee7d-4ace-b81d-d55526f99ec1" />
+<img width="800" height="496" alt="fullweb-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/32da2435-67c7-4d00-b685-bfe452fa0013" />
 
 ### Threat Map Demo:
+<img width="800" height="496" alt="threatmap-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2fede29f-6e06-4e45-a206-ba2869ab1d0d" />
 #### Globe:
 - Auto-rotating heatmap globe, drag to spin
 - Realistic 3D terrain globe mode
@@ -19,9 +20,6 @@
 - Live incident news feed: ransomware claims, exploited CVEs, headlines
 - Scroll shrinks the globe to reveal the feed
 - "?" methodology notes on every legend item
-
-Mini demo:
-<img width="800" height="496" alt="threatmap-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2fede29f-6e06-4e45-a206-ba2869ab1d0d" />
 
 ### Full Web Demo:
 #### Terminal:
@@ -50,4 +48,4 @@ Mini demo:
 - Cookieless analytics
 - Respects reduced motion
 
-<img width="800" height="496" alt="fullweb-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/32da2435-67c7-4d00-b685-bfe452fa0013" />
+
