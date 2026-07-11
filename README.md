@@ -26,8 +26,7 @@ Mini demo:
 ### Full Web Demo:
 #### Terminal:
 - Fake Linux filesystem: ls, cd, pwd, cat, mkdir, touch
-- Hidden privesc CTF: follow the breadcrumbs, SUID bash, root the box, cat the flag
-- Root shell prompt, permission-denied dirs, sudo that never accepts
+- Hidden privesc CTF: follow the breadcrumbs, root the box, cat the flag
 - rm -rf / nukes the page (--no-preserve-root respected), make -rf / restores
 - rm/make any page element (title, cube, posts, ...)
 - Tab completion, ↑/↓ history, "?" command reference
